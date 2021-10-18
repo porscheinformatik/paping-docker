@@ -1,3 +1,3 @@
-FROM quay.io/centos/centos:8@sha256:8301d100020ffaedc93f57d8c8bb0e8e88006862bcb48ebc5dfbe1d1cb83060c
+FROM quay.io/centos/centos:8@sha256:ec16f510e8cd1cceeddc6888fcb37c6d6b7c6863fbc70bdbe660a8ccad4bab6a
 
 COPY paping /usr/local/bin/paping
